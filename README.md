@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @bcaldwell19
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ...python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m B.
+- 👀 I’m interested in Python,Hadoop, and machine learning.
+- 🌱 I’m currently learning web scraping.
+- 📫 You can reach me b_caldwell19@outlook.com
 
 <!---
 bcaldwell19/bcaldwell19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
