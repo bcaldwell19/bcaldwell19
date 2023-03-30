@@ -1,6 +1,6 @@
 - 👋 Hi, I’m B.
-- 👀 I’m interested in Python,Hadoop, and machine learning.
-- 🌱 I’m currently learning web scraping.
+- 👀 I’m interested in Python,Javascript, and machine learning.
+- 🌱 I’m currently machine learning.
 - 📫 You can reach me b_caldwell19@outlook.com
 
 <!---
