@@ -1,5 +1,5 @@
 - 👋 Hi, I’m B.
-- 👀 I’m interested in Python,Javascript, and machine learning.
+- 👀 I’m interested in Python, R, and JavaScript.
 - 🌱 I’m currently learning machine learning.
 - 📫 You can reach me b_caldwell19@outlook.com
 
