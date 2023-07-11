@@ -54,10 +54,10 @@
 
         @media (prefers-color-scheme: light) {
           .container {
-            --color-main: #F15BB5;
-            --color-primary: #24b0ef;
+            --color-main: #f1f15b;
+            --color-primary: #242eef;
             --color-secondary: #4526f6;
-            --color-tertiary: #f6f645;
+            --color-tertiary: #9bf645;
           }
         }
 
@@ -73,7 +73,7 @@
       </style>
 
       <div class="container">
-        <h1>Hi there, my name is Bradley <div class="hi">👋</div></h1>
+        <h1>Hi there, my name is Bradley <div class="hi">🚀</div></h1>
       </div>
     </div>
   </foreignObject>
