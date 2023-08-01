@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning machine learning.
 - 📫 You can reach me at b_caldwell19@outlook.com
 
+A recent gradute from an ![image]({https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white}) bootcamp on Data Analysis and Visualization?
 Let's create something new!
 
 <!---
