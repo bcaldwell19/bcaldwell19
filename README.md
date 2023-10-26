@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning machine learning.
 - 📫 You can reach me at b_caldwell19@outlook.com
 
-A recent gradute from an <img src="Edx-193A3E.svg" style="width: 4%;" alt="https://github.com/alexandresanlim/Badges4-README.md-Profile#how-to-use"> bootcamp on Data Analysis and Visualization?
 Let's create something new!
 
 <!---
